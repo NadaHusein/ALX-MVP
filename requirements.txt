@@ -1,0 +1,7 @@
+asyncio
+metno-locationforecast
+geopy
+redis
+pysolar
+timezonefinder
+pytz
